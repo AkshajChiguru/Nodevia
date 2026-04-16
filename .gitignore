@@ -1,1 +1,1 @@
-
+git rm -r build 2>/dev/null; rm -rf build; git commit -m "remove build;git push orgin main
